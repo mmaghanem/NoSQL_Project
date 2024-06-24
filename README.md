@@ -1,4 +1,4 @@
-# Acme Gourmet Meals (AGM) - Optimizing Delivery Systems with NoSQL Databases and Graph Algorithms
+# Data Engineering - Optimizing Delivery Systems with NoSQL Databases and Graph Algorithms
 
 Welcome to the repository for the Acme Gourmet Meals (AGM) project! This project focuses on enhancing the delivery systems of AGM by leveraging NoSQL databases and advanced graph algorithms. The goal is to improve operational efficiency by integrating Neo4j for route optimization and MongoDB and Redis for managing large-scale data.
 
